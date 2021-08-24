@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinLesson2</string>
+    <string name="generate">Generate</string>
+    <string name="random">Random</string>
+    <string name="warning">Write some message</string>
+</resources>
